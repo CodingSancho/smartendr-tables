@@ -12,6 +12,7 @@ Built using React, TypeScript, and Material-UI with inline styling.
 2) If an order has a quantity of 0, we filter it out.
 3) The unexpected amount of orders is ignored, because we have no information about amount of people at the tables.
 4) No tests were written, since it would be out of the scope of the assignment.
+5) Perfect is the enemy of good.
 
 ## Features
 

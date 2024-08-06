@@ -39,3 +39,6 @@ cd smartendr-tables && npm install && npm run dev
 ```
 
 This will launch the project, allowing you to start developing and testing.
+
+## Expected result
+![Screenshot-2024-08-07](https://github.com/user-attachments/assets/716f4423-69f1-43ca-8de7-f04d8ef64c22)

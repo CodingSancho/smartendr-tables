@@ -1,2 +1,40 @@
-# smartendr-tables
- Kitchen display system, developed for a test assignment
+# Smartendr-KDS
+
+## Overview
+
+Kitchen display system, developed for a code challange. Layout design based on Lightspeed KDS.
+Project initialized using Vite.
+Built using React, TypeScript, and Material-UI with inline styling.
+
+## Assumptions about the assignment
+
+1) If a table name does not follow the format, we consider it accidental.
+2) If an order has a quantity of 0, we filter it out.
+3) The unexpected amount of orders is ignored, because we have no information about amount of people at the tables.
+4) No tests were written, since it would be out of the scope of the assignment.
+
+## Features
+
+- Header and tables to display orders of a restaurant, grouped by tables.
+
+## Installation
+
+To set up the project on your local machine, follow these steps:
+
+1. **Clone the Repository**
+
+Clone the repository using Git. Open your terminal and run:
+
+```
+git clone https://github.com/CodingSancho/smartendr-tables.git
+```
+
+2. **Navigate to the Project Directory, Install Dependencies and Start the Development Server**
+
+Command to do all three:
+
+```
+cd smartendr-tables && npm install && npm run dev
+```
+
+This will launch the project, allowing you to start developing and testing.

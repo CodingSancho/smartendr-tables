@@ -1,5 +1,5 @@
-import Header from './components/Header';
-import Tables from './components/Tables';
+import Header from "./components/Header";
+import Tables from "./components/Tables";
 
 const App = () => {
   return (
